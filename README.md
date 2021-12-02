@@ -14,7 +14,7 @@
 <p>And it's great to get a big dose of serotonin and endorphins when you successfully solve problems while working on your next IT project.</p>
 &nbsp;
 
-> So in this case, my motto is: Always go ahead and create new neural connections.
+> So in this case, my motto is: Always go ahead and make new neural connections.
 
 ---
 
