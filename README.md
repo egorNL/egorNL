@@ -4,12 +4,12 @@
 
 ## Hi there :wave: Egor is here!
 
-### :smile: Pronounced like that, btw: 
+### :smile: &nbsp; Pronounced like that, btw: 
 > A slavic name (Егор) that is the same as Yegor, but differs from Igor. Egor is properly pronounced Yegor, with the stress on the 2nd syllable and the r rrrrolled. It has a Norse origin meaning "archer-soldier." It is relatively uncommon, even in Russia.
 
 ### Are you still alive? Then let's move on!
 ---
-<p style="text-align: justify;">:point_right: I'm a young and ambitious guy with legal education and a broad outlook. Who is not afraid of difficulties and tries something completely new, because all life is study! Now I am happy to try my hands in the IT world :star_struck:</p>
+<p style="text-align: justify;">:point_right: &nbsp; I'm a young and ambitious guy with legal education and a broad outlook. Who is not afraid of difficulties and tries something completely new, because all life is study! Now I am happy to try my hands in the IT world :star_struck:</p>
 &nbsp;
 <p>And it's great to get a big dose of serotonin and endorphins when you successfully solve problems while working on your next IT project.</p>
 &nbsp;
@@ -18,7 +18,7 @@
 
 ---
 
-🌱 And I’m currently studying a Web development at [HackYourFuture](https://www.hackyourfuture.net/).
+🌱 &nbsp; And I’m currently studying a Web development at [HackYourFuture](https://www.hackyourfuture.net/).
 
 > So you can wish me some luck :smile:
 
