@@ -2,7 +2,7 @@
 <img src="https://media4.giphy.com/media/YjhJQ5U6ALooKKNIxG/giphy.gif?cid=ecf05e4703viuvmi9e35iuktxxcyawtrjmzvrumarejsxs4g&rid=giphy.gif&ct=g" width="160px">
 </p>
 
-## Hi there :wave: Egor is here!
+## Hi there :wave: Egor here!
 
 ### :smile:&nbsp; Pronounced like that, btw: 
 > A slavic name (Егор) that is the same as Yegor, but differs from Igor. Egor is properly pronounced Yegor, with the stress on the 2nd syllable and the r rrrrolled. It has a Norse origin meaning "archer-soldier." It is relatively uncommon, even in Russia.
